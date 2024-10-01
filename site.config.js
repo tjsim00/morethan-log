@@ -4,7 +4,7 @@ const CONFIG = {
     name: "tjsim00",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "researcher",
-    bio: "연구 기술 노트.",
+    bio: "R&D Note",
     email: "tjsim00@gmail.com",
     linkedin: "",
     github: "",
@@ -18,7 +18,7 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "tjsim00-log",
+    title: "tjsim00-R&D",
     description: "welcome to tjsim00-log!",
     scheme: "system", // 'light' | 'dark' | 'system'
   },
